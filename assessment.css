@@ -26,3 +26,8 @@ a {
 a:hover {
   background-color: #ffff00;
 }
+
+blockquote {
+  color: #ffccff;
+  background-color: #800000;
+}
