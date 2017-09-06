@@ -14,3 +14,7 @@ thead th {
   background-color: #ff0066;
   color: #FFFFFF;
 }
+
+ul > li {
+  list-style-type: square;
+}
