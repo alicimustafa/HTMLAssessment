@@ -2,3 +2,15 @@
   font-size: 1.5em;
   color: #66ccff;
 }
+
+table , th, td {
+  border: 2px #000000 solid;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 5px;
+}
+
+thead th {
+  background-color: #ff0066;
+  color: #FFFFFF;
+}
