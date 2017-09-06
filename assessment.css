@@ -18,3 +18,11 @@ thead th {
 ul > li {
   list-style-type: square;
 }
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #ffff00;
+}
